@@ -1,4 +1,4 @@
-package contator;
+package br.com.contador;
 import java.util.Scanner;
 
 public class Contador {
